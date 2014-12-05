@@ -1,4 +1,4 @@
 Responsive-HTML5-Template
 =========================
 
-My starter template for responsive projects.
+My very minimal starter template for responsive projects.
