@@ -38,6 +38,7 @@ a:hover { color: blue; }
 /* ================================================================================== */
 
 #header { background: #ccc; text-align: center; }
+#header .logo { display: block; font-size: 2rem; padding: 1rem; }
 
 
 /*Navigation*/
